@@ -2,7 +2,6 @@
 
 
 def plusMinus(arr)
-  # Write your code here
   hash = Hash.new { |hash, key| hash[key] = [] }
 
   arr.each do |num|
@@ -14,10 +13,9 @@ def plusMinus(arr)
         hash['zero'] << num
       end
   end
-  require 'pry'; binding.pry
-  p "%.6f" % ((hash["positive"].count).to_f / arr.length)
-  p sprintf("%.6f", (hash["negative"].count).to_f / arr.length)
-  p sprintf("%.6f", (hash["zero"].count).to_f / arr.length)
+  puts ("%.6f" % ((hash["positive"].count).to_f / arr.length)).to_f
+  puts ("%.6f" % ((hash["negative"].count).to_f / arr.length)).to_f
+  puts ("%.6f" % ((hash["zero"].count).to_f / arr.length)).to_f
 end
 
 arr = [-4, 3, -9, 0, 4, 1]
