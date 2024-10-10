@@ -1,0 +1,944 @@
+[
+  {
+    "receipt_submission": {
+      "receipt": {
+        "id": 635879596,
+        "saver_id": 57391987,
+        "retailer_id": 2419,
+        "receipt_items": [
+          {
+            "id": 7986688092,
+            "receipt_id": 635879596,
+            "product_text": "Rhubarb",
+            "product_code": "541707649594631",
+            "price": "1.03",
+            "quantity": 1
+          },
+          {
+            "id": 7986688093,
+            "receipt_id": 635879596,
+            "product_text": "Capers",
+            "product_code": "851877409620445",
+            "price": "19.29",
+            "quantity": 1
+          }
+        ],
+        "purchase_time": "2020-06-17 04:08:02 -0600",
+        "transaction_id": 7275232241
+      },
+      "rewards": [
+        {
+          "id": 689371693085139,
+          "product_code": "541707649594631",
+          "amount_cents": 25
+        },
+        {
+          "id": 689371693085140,
+          "product_code": "851877409620445",
+          "amount_cents": 125
+        }
+      ]
+    }
+  },
+  {
+    "receipt_submission": {
+      "receipt": {
+        "id": 635879597,
+        "saver_id": 57391988,
+        "retailer_id": 2426,
+        "receipt_items": [
+          {
+            "id": 7986688094,
+            "receipt_id": 635879597,
+            "product_text": "Corella Pear",
+            "product_code": "350655238017030",
+            "price": "10.54",
+            "quantity": 3
+          },
+          {
+            "id": 7986688095,
+            "receipt_id": 635879597,
+            "product_text": "Teriyaki Chicken Donburi",
+            "product_code": "277982107270467",
+            "price": "17.63",
+            "quantity": 1
+          },
+          {
+            "id": 7986688096,
+            "receipt_id": 635879597,
+            "product_text": "Broccolini",
+            "product_code": "380569905463321",
+            "price": "11.24",
+            "quantity": 2
+          },
+          {
+            "id": 7986688097,
+            "receipt_id": 635879597,
+            "product_text": "Salmon Nigiri",
+            "product_code": "845070868855049",
+            "price": "1.70",
+            "quantity": 1
+          },
+          {
+            "id": 7986688098,
+            "receipt_id": 635879597,
+            "product_text": "Green Pepper",
+            "product_code": "438142152864207",
+            "price": "9.39",
+            "quantity": 1
+          },
+          {
+            "id": 7986688099,
+            "receipt_id": 635879597,
+            "product_text": "Blueberries",
+            "product_code": "175131081700382",
+            "price": "5.61",
+            "quantity": 1
+          },
+          {
+            "id": 7986688100,
+            "receipt_id": 635879597,
+            "product_text": "Peas",
+            "product_code": "177448618509032",
+            "price": "9.20",
+            "quantity": 1
+          },
+          {
+            "id": 7986688101,
+            "receipt_id": 635879597,
+            "product_text": "Pork Sausage Roll",
+            "product_code": "467967694597337",
+            "price": "1.29",
+            "quantity": 2
+          },
+          {
+            "id": 7986688102,
+            "receipt_id": 635879597,
+            "product_text": "Japanese spanish mackerel",
+            "product_code": "634926141114064",
+            "price": "16.65",
+            "quantity": 1
+          }
+        ],
+        "purchase_time": "2020-06-17 14:23:05 -0600",
+        "transaction_id": 32444275938
+      },
+      "rewards": [
+        {
+          "id": 689371693085141,
+          "product_code": "277982107270467",
+          "amount_cents": 125
+        },
+        {
+          "id": 689371693085142,
+          "product_code": "175131081700382",
+          "amount_cents": 25
+        },
+        {
+          "id": 689371693085143,
+          "product_code": "438142152864207",
+          "amount_cents": 125
+        }
+      ]
+    }
+  },
+  {
+    "receipt_submission": {
+      "receipt": {
+        "id": 635879598,
+        "saver_id": 57391989,
+        "retailer_id": 2409,
+        "receipt_items": [
+          {
+            "id": 7986688103,
+            "receipt_id": 635879598,
+            "product_text": "Halfbeak",
+            "product_code": "533984605628110",
+            "price": "7.37",
+            "quantity": 1
+          },
+          {
+            "id": 7986688104,
+            "receipt_id": 635879598,
+            "product_text": "Ebiten maki",
+            "product_code": "879084797120278",
+            "price": "18.96",
+            "quantity": 1
+          },
+          {
+            "id": 7986688105,
+            "receipt_id": 635879598,
+            "product_text": "Garlic Salt",
+            "product_code": "355345633845214",
+            "price": "19.86",
+            "quantity": 1
+          },
+          {
+            "id": 7986688106,
+            "receipt_id": 635879598,
+            "product_text": "Halfbeak",
+            "product_code": "338626530371498",
+            "price": "13.78",
+            "quantity": 3
+          },
+          {
+            "id": 7986688107,
+            "receipt_id": 635879598,
+            "product_text": "Aubergine",
+            "product_code": "393673886155137",
+            "price": "12.52",
+            "quantity": 1
+          },
+          {
+            "id": 7986688108,
+            "receipt_id": 635879598,
+            "product_text": "Tangelo",
+            "product_code": "771850206834247",
+            "price": "11.14",
+            "quantity": 1
+          },
+          {
+            "id": 7986688109,
+            "receipt_id": 635879598,
+            "product_text": "Ebiten maki",
+            "product_code": "556237723978490",
+            "price": "11.57",
+            "quantity": 2
+          },
+          {
+            "id": 7986688110,
+            "receipt_id": 635879598,
+            "product_text": "Tiramisù",
+            "product_code": "815016183446246",
+            "price": "6.10",
+            "quantity": 2
+          },
+          {
+            "id": 7986688111,
+            "receipt_id": 635879598,
+            "product_text": "Japanese style-chunky omelette",
+            "product_code": "807818814000747",
+            "price": "0.22",
+            "quantity": 1
+          },
+          {
+            "id": 7986688112,
+            "receipt_id": 635879598,
+            "product_text": "Oranges",
+            "product_code": "779030107515471",
+            "price": "13.75",
+            "quantity": 1
+          }
+        ],
+        "purchase_time": "2020-06-17 16:04:03 -0600",
+        "transaction_id": 820804408353
+      },
+      "rewards": [
+        {
+          "id": 689371693085144,
+          "product_code": "338626530371498",
+          "amount_cents": 25
+        },
+        {
+          "id": 689371693085145,
+          "product_code": "879084797120278",
+          "amount_cents": 500
+        }
+      ]
+    }
+  },
+  {
+    "receipt_submission": {
+      "receipt": {
+        "id": 635879599,
+        "saver_id": 57391990,
+        "retailer_id": 2422,
+        "receipt_items": [
+          {
+            "id": 7986688113,
+            "receipt_id": 635879599,
+            "product_text": "Barbecue Ribs",
+            "product_code": "319538931483238",
+            "price": "2.71",
+            "quantity": 1
+          },
+          {
+            "id": 7986688114,
+            "receipt_id": 635879599,
+            "product_text": "Pumpkin",
+            "product_code": "759795509730889",
+            "price": "14.22",
+            "quantity": 3
+          },
+          {
+            "id": 7986688115,
+            "receipt_id": 635879599,
+            "product_text": "Ras-el-Hanout",
+            "product_code": "412970603589030",
+            "price": "16.15",
+            "quantity": 3
+          },
+          {
+            "id": 7986688116,
+            "receipt_id": 635879599,
+            "product_text": "Kiwi Fruit",
+            "product_code": "993910912850825",
+            "price": "17.11",
+            "quantity": 1
+          },
+          {
+            "id": 7986688117,
+            "receipt_id": 635879599,
+            "product_text": "Ricotta Stuffed Ravioli",
+            "product_code": "530910101251598",
+            "price": "12.70",
+            "quantity": 2
+          },
+          {
+            "id": 7986688118,
+            "receipt_id": 635879599,
+            "product_text": "Chives",
+            "product_code": "194294917570715",
+            "price": "15.24",
+            "quantity": 1
+          },
+          {
+            "id": 7986688119,
+            "receipt_id": 635879599,
+            "product_text": "Onion",
+            "product_code": "802544793476729",
+            "price": "18.75",
+            "quantity": 2
+          },
+          {
+            "id": 7986688120,
+            "receipt_id": 635879599,
+            "product_text": "Longan",
+            "product_code": "202294499861063",
+            "price": "19.62",
+            "quantity": 2
+          },
+          {
+            "id": 7986688121,
+            "receipt_id": 635879599,
+            "product_text": "Celery",
+            "product_code": "469211134638383",
+            "price": "6.73",
+            "quantity": 1
+          }
+        ],
+        "purchase_time": "2020-06-17 03:50:46 -0600",
+        "transaction_id": 47593632487
+      },
+      "rewards": [
+        {
+          "id": 689371693085146,
+          "product_code": "412970603589030",
+          "amount_cents": 200
+        },
+        {
+          "id": 689371693085147,
+          "product_code": "319538931483238",
+          "amount_cents": 75
+        }
+      ]
+    }
+  },
+  {
+    "receipt_submission": {
+      "receipt": {
+        "id": 635879600,
+        "saver_id": 57391991,
+        "retailer_id": 2466,
+        "receipt_items": [
+          {
+            "id": 7986688122,
+            "receipt_id": 635879600,
+            "product_text": "Dill Leaf",
+            "product_code": "458867408512126",
+            "price": "16.41",
+            "quantity": 1
+          },
+          {
+            "id": 7986688123,
+            "receipt_id": 635879600,
+            "product_text": "Turnips",
+            "product_code": "126708112430777",
+            "price": "10.61",
+            "quantity": 1
+          },
+          {
+            "id": 7986688124,
+            "receipt_id": 635879600,
+            "product_text": "California Maki",
+            "product_code": "855223843260754",
+            "price": "1.47",
+            "quantity": 3
+          },
+          {
+            "id": 7986688125,
+            "receipt_id": 635879600,
+            "product_text": "Cavalo",
+            "product_code": "430032253317107",
+            "price": "5.80",
+            "quantity": 3
+          },
+          {
+            "id": 7986688126,
+            "receipt_id": 635879600,
+            "product_text": "Curry Leaves",
+            "product_code": "299383970022175",
+            "price": "2.85",
+            "quantity": 2
+          },
+          {
+            "id": 7986688127,
+            "receipt_id": 635879600,
+            "product_text": "Garlic",
+            "product_code": "913673371403944",
+            "price": "1.69",
+            "quantity": 3
+          },
+          {
+            "id": 7986688128,
+            "receipt_id": 635879600,
+            "product_text": "Artichoke",
+            "product_code": "825592921335240",
+            "price": "13.64",
+            "quantity": 3
+          },
+          {
+            "id": 7986688129,
+            "receipt_id": 635879600,
+            "product_text": "Skipjack tuna",
+            "product_code": "153893120734549",
+            "price": "11.88",
+            "quantity": 2
+          },
+          {
+            "id": 7986688130,
+            "receipt_id": 635879600,
+            "product_text": "Risotto with Seafood",
+            "product_code": "121740905426513",
+            "price": "3.92",
+            "quantity": 3
+          },
+          {
+            "id": 7986688131,
+            "receipt_id": 635879600,
+            "product_text": "Vegetable Soup",
+            "product_code": "532885201408018",
+            "price": "0.18",
+            "quantity": 1
+          },
+          {
+            "id": 7986688132,
+            "receipt_id": 635879600,
+            "product_text": "Lavender",
+            "product_code": "703355905944315",
+            "price": "14.04",
+            "quantity": 3
+          }
+        ],
+        "purchase_time": "2020-06-17 19:08:51 -0600",
+        "transaction_id": 2008764500037
+      },
+      "rewards": [
+        {
+          "id": 689371693085148,
+          "product_code": "703355905944315",
+          "amount_cents": 25
+        },
+        {
+          "id": 689371693085149,
+          "product_code": "430032253317107",
+          "amount_cents": 200
+        }
+      ]
+    }
+  },
+  {
+    "receipt_submission": {
+      "receipt": {
+        "id": 635879601,
+        "saver_id": 57391992,
+        "retailer_id": 2410,
+        "receipt_items": [
+          {
+            "id": 7986688133,
+            "receipt_id": 635879601,
+            "product_text": "Vegetable Seasoning",
+            "product_code": "444066761865224",
+            "price": "7.28",
+            "quantity": 3
+          },
+          {
+            "id": 7986688134,
+            "receipt_id": 635879601,
+            "product_text": "Pears",
+            "product_code": "283765484602158",
+            "price": "9.46",
+            "quantity": 3
+          },
+          {
+            "id": 7986688135,
+            "receipt_id": 635879601,
+            "product_text": "Mulberries",
+            "product_code": "466239408120051",
+            "price": "12.24",
+            "quantity": 2
+          },
+          {
+            "id": 7986688136,
+            "receipt_id": 635879601,
+            "product_text": "Potatoes",
+            "product_code": "583860338559550",
+            "price": "15.83",
+            "quantity": 1
+          },
+          {
+            "id": 7986688137,
+            "receipt_id": 635879601,
+            "product_text": "Caesar Salad",
+            "product_code": "310013504920357",
+            "price": "18.32",
+            "quantity": 2
+          },
+          {
+            "id": 7986688138,
+            "receipt_id": 635879601,
+            "product_text": "Thai Creen Curry Mix",
+            "product_code": "673437056503205",
+            "price": "17.67",
+            "quantity": 2
+          },
+          {
+            "id": 7986688139,
+            "receipt_id": 635879601,
+            "product_text": "Beans",
+            "product_code": "619450130697819",
+            "price": "4.39",
+            "quantity": 1
+          },
+          {
+            "id": 7986688140,
+            "receipt_id": 635879601,
+            "product_text": "Milt",
+            "product_code": "165345725452909",
+            "price": "7.59",
+            "quantity": 2
+          },
+          {
+            "id": 7986688141,
+            "receipt_id": 635879601,
+            "product_text": "Bunny Chow",
+            "product_code": "344453396194438",
+            "price": "1.18",
+            "quantity": 3
+          },
+          {
+            "id": 7986688142,
+            "receipt_id": 635879601,
+            "product_text": "Pepper Black Coarse",
+            "product_code": "828897667536313",
+            "price": "6.75",
+            "quantity": 2
+          }
+        ],
+        "purchase_time": "2020-06-18 12:21:15 -0600",
+        "transaction_id": 1868394987694
+      },
+      "rewards": [
+        {
+          "id": 689371693085150,
+          "product_code": "283765484602158",
+          "amount_cents": 125
+        },
+        {
+          "id": 689371693085151,
+          "product_code": "619450130697819",
+          "amount_cents": 50
+        },
+        {
+          "id": 689371693085152,
+          "product_code": "344453396194438",
+          "amount_cents": 500
+        }
+      ]
+    }
+  },
+  {
+    "receipt_submission": {
+      "receipt": {
+        "id": 635879602,
+        "saver_id": 57391993,
+        "retailer_id": 2497,
+        "receipt_items": [
+          {
+            "id": 7986688143,
+            "receipt_id": 635879602,
+            "product_text": "Watermelon",
+            "product_code": "162289881956945",
+            "price": "19.61",
+            "quantity": 1
+          },
+          {
+            "id": 7986688144,
+            "receipt_id": 635879602,
+            "product_text": "Cantaloupe",
+            "product_code": "716250175062234",
+            "price": "15.77",
+            "quantity": 2
+          },
+          {
+            "id": 7986688145,
+            "receipt_id": 635879602,
+            "product_text": "Onion",
+            "product_code": "517481260619051",
+            "price": "13.19",
+            "quantity": 3
+          },
+          {
+            "id": 7986688146,
+            "receipt_id": 635879602,
+            "product_text": "Curry Mild",
+            "product_code": "489083530854597",
+            "price": "15.62",
+            "quantity": 2
+          },
+          {
+            "id": 7986688147,
+            "receipt_id": 635879602,
+            "product_text": "Cantaloupe",
+            "product_code": "489994467142242",
+            "price": "16.64",
+            "quantity": 2
+          },
+          {
+            "id": 7986688148,
+            "receipt_id": 635879602,
+            "product_text": "Jarrahdale pumpkin",
+            "product_code": "160383768992048",
+            "price": "3.53",
+            "quantity": 1
+          },
+          {
+            "id": 7986688149,
+            "receipt_id": 635879602,
+            "product_text": "Butternut pumpkin",
+            "product_code": "289021269093626",
+            "price": "14.16",
+            "quantity": 2
+          },
+          {
+            "id": 7986688150,
+            "receipt_id": 635879602,
+            "product_text": "Stinky Tofu",
+            "product_code": "380719041327653",
+            "price": "19.36",
+            "quantity": 1
+          },
+          {
+            "id": 7986688151,
+            "receipt_id": 635879602,
+            "product_text": "Papaw",
+            "product_code": "698612360011889",
+            "price": "9.00",
+            "quantity": 1
+          }
+        ],
+        "purchase_time": "2020-06-17 23:34:51 -0600",
+        "transaction_id": 133433306220
+      },
+      "rewards": [
+        {
+          "id": 689371693085153,
+          "product_code": "162289881956945",
+          "amount_cents": 100
+        },
+        {
+          "id": 689371693085154,
+          "product_code": "489994467142242",
+          "amount_cents": 500
+        },
+        {
+          "id": 689371693085155,
+          "product_code": "489083530854597",
+          "amount_cents": 75
+        }
+      ]
+    }
+  },
+  {
+    "receipt_submission": {
+      "receipt": {
+        "id": 635879603,
+        "saver_id": 57391994,
+        "retailer_id": 2432,
+        "receipt_items": [
+          {
+            "id": 7986688152,
+            "receipt_id": 635879603,
+            "product_text": "Swiss Chard",
+            "product_code": "648898842605858",
+            "price": "7.49",
+            "quantity": 2
+          },
+          {
+            "id": 7986688153,
+            "receipt_id": 635879603,
+            "product_text": "Nectarines",
+            "product_code": "452560403162919",
+            "price": "1.84",
+            "quantity": 2
+          },
+          {
+            "id": 7986688154,
+            "receipt_id": 635879603,
+            "product_text": "Amberjack",
+            "product_code": "966744222097812",
+            "price": "10.53",
+            "quantity": 2
+          },
+          {
+            "id": 7986688155,
+            "receipt_id": 635879603,
+            "product_text": "Turmeric",
+            "product_code": "420274668801256",
+            "price": "6.41",
+            "quantity": 1
+          },
+          {
+            "id": 7986688156,
+            "receipt_id": 635879603,
+            "product_text": "Jarrahdale pumpkin",
+            "product_code": "978650107606778",
+            "price": "11.83",
+            "quantity": 2
+          },
+          {
+            "id": 7986688157,
+            "receipt_id": 635879603,
+            "product_text": "Kohlrabi",
+            "product_code": "910661770924222",
+            "price": "12.20",
+            "quantity": 1
+          },
+          {
+            "id": 7986688158,
+            "receipt_id": 635879603,
+            "product_text": "Hummus",
+            "product_code": "966129144586342",
+            "price": "11.11",
+            "quantity": 2
+          },
+          {
+            "id": 7986688159,
+            "receipt_id": 635879603,
+            "product_text": "Risotto with Seafood",
+            "product_code": "173456730601239",
+            "price": "17.73",
+            "quantity": 1
+          },
+          {
+            "id": 7986688160,
+            "receipt_id": 635879603,
+            "product_text": "Mint",
+            "product_code": "524587046709081",
+            "price": "13.93",
+            "quantity": 3
+          },
+          {
+            "id": 7986688161,
+            "receipt_id": 635879603,
+            "product_text": "Mirugai clam",
+            "product_code": "717485911286684",
+            "price": "7.64",
+            "quantity": 3
+          }
+        ],
+        "purchase_time": "2020-06-18 05:10:59 -0600",
+        "transaction_id": 378874096973
+      },
+      "rewards": [
+        {
+          "id": 689371693085156,
+          "product_code": "452560403162919",
+          "amount_cents": 50
+        }
+      ]
+    }
+  },
+  {
+    "receipt_submission": {
+      "receipt": {
+        "id": 635879604,
+        "saver_id": 57391995,
+        "retailer_id": 2443,
+        "receipt_items": [
+          {
+            "id": 7986688162,
+            "receipt_id": 635879604,
+            "product_text": "Cajun Seasoning",
+            "product_code": "423293193207092",
+            "price": "17.09",
+            "quantity": 2
+          },
+          {
+            "id": 7986688163,
+            "receipt_id": 635879604,
+            "product_text": "Firefly squid",
+            "product_code": "723590499321515",
+            "price": "9.52",
+            "quantity": 2
+          },
+          {
+            "id": 7986688164,
+            "receipt_id": 635879604,
+            "product_text": "Tacos",
+            "product_code": "739673424604720",
+            "price": "11.97",
+            "quantity": 1
+          },
+          {
+            "id": 7986688165,
+            "receipt_id": 635879604,
+            "product_text": "Bloody clam",
+            "product_code": "819025436585513",
+            "price": "13.13",
+            "quantity": 1
+          },
+          {
+            "id": 7986688166,
+            "receipt_id": 635879604,
+            "product_text": "Bean Shoots",
+            "product_code": "127723570140032",
+            "price": "15.59",
+            "quantity": 1
+          },
+          {
+            "id": 7986688167,
+            "receipt_id": 635879604,
+            "product_text": "Pepper White Ground",
+            "product_code": "755516631248883",
+            "price": "19.53",
+            "quantity": 1
+          },
+          {
+            "id": 7986688168,
+            "receipt_id": 635879604,
+            "product_text": "Pho",
+            "product_code": "347966922645630",
+            "price": "15.29",
+            "quantity": 1
+          },
+          {
+            "id": 7986688169,
+            "receipt_id": 635879604,
+            "product_text": "Ginger Ground",
+            "product_code": "165625656889731",
+            "price": "14.60",
+            "quantity": 2
+          },
+          {
+            "id": 7986688170,
+            "receipt_id": 635879604,
+            "product_text": "Saffron",
+            "product_code": "600309365825602",
+            "price": "10.67",
+            "quantity": 2
+          }
+        ],
+        "purchase_time": "2020-06-17 09:01:27 -0600",
+        "transaction_id": 37473274254
+      },
+      "rewards": [
+        {
+          "id": 689371693085157,
+          "product_code": "347966922645630",
+          "amount_cents": 200
+        },
+        {
+          "id": 689371693085158,
+          "product_code": "165625656889731",
+          "amount_cents": 100
+        },
+        {
+          "id": 689371693085159,
+          "product_code": "423293193207092",
+          "amount_cents": 125
+        }
+      ]
+    }
+  },
+  {
+    "receipt_submission": {
+      "receipt": {
+        "id": 635879605,
+        "saver_id": 57391996,
+        "retailer_id": 2416,
+        "receipt_items": [
+          {
+            "id": 7986688171,
+            "receipt_id": 635879605,
+            "product_text": "Whitespotted conger",
+            "product_code": "137865435620857",
+            "price": "3.92",
+            "quantity": 2
+          },
+          {
+            "id": 7986688172,
+            "receipt_id": 635879605,
+            "product_text": "Carob Carrot",
+            "product_code": "241049260707195",
+            "price": "1.69",
+            "quantity": 1
+          },
+          {
+            "id": 7986688173,
+            "receipt_id": 635879605,
+            "product_text": "Melon",
+            "product_code": "636905103479997",
+            "price": "4.03",
+            "quantity": 2
+          },
+          {
+            "id": 7986688174,
+            "receipt_id": 635879605,
+            "product_text": "Botan shrimp",
+            "product_code": "242019298927218",
+            "price": "16.72",
+            "quantity": 1
+          },
+          {
+            "id": 7986688175,
+            "receipt_id": 635879605,
+            "product_text": "Tuna",
+            "product_code": "609963552362963",
+            "price": "7.88",
+            "quantity": 1
+          }
+        ],
+        "purchase_time": "2020-06-18 08:12:15 -0600",
+        "transaction_id": 968803162843
+      },
+      "rewards": [
+        {
+          "id": 689371693085160,
+          "product_code": "242019298927218",
+          "amount_cents": 125
+        },
+        {
+          "id": 689371693085161,
+          "product_code": "609963552362963",
+          "amount_cents": 500
+        },
+        {
+          "id": 689371693085162,
+          "product_code": "241049260707195",
+          "amount_cents": 100
+        }
+      ]
+    }
+  }
+]

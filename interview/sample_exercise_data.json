@@ -1,0 +1,43 @@
+[
+  {
+    "receipt_submission": {
+      "receipt": {
+        "id": 635879596,
+        "saver_id": 57391987,
+        "retailer_id": 2419,
+        "receipt_items": [
+          {
+            "id": 7986688092,
+            "receipt_id": 635879596,
+            "product_text": "Rhubarb",
+            "product_code": "541707649594631",
+            "price": "1.03",
+            "quantity": 1
+          },
+          {
+            "id": 7986688093,
+            "receipt_id": 635879596,
+            "product_text": "Capers",
+            "product_code": "851877409620445",
+            "price": "19.29",
+            "quantity": 1
+          }
+        ],
+        "purchase_time": "2020-06-17 04:08:02 -0600",
+        "transaction_id": 7275232241787374956
+      },
+      "rewards": [
+        {
+          "id": 689371693085139,
+          "product_code": "541707649594631",
+          "amount_cents": 25
+        },
+        {
+          "id": 351191123908867,
+          "product_code": "12345689165344",
+          "amount_cents": 50
+        }
+      ]
+    }
+  }
+]
